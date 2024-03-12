@@ -1,0 +1,9 @@
+{
+  "name": "@johnson_nguyen-coll/tea-xyz-quest",
+  "version": "1.0.0",
+  "description": "Quest for tea.xyz",
+  "main": "index.js",
+  "author": "@johnson_nguyen-coll",
+  "repository": "https://github.com/JohnsonNguyen-coll/tea-xyz-quest.git",
+  "license": "ISC"
+}
